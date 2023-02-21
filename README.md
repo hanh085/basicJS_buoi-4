@@ -6,5 +6,5 @@ NOTE:
 1. hàm làm sách giao diện console: 
   console.clear();
   
- 2. tạo mảng mới phải có cặp dấu [ ]  \n
+ 2. tạo mảng mới phải có cặp dấu [ ]  
   VD: var temp = []; // tạo mảng mới temp
